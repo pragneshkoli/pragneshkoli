@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @pragneshkoli
-- 👀 I’m interested in Android App Development
-- 🌱 I’m currently learning Android App Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 pragneshkoli/pragneshkoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
