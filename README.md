@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate **Flutter Developer** with a stro
 
 ## 🚀 About Me
 - 💻 **Tech Stack:** Flutter, Dart, Provider, Firebase, Java, FastAPI, Express.js
-- 📱 **Expertise:** Mobile & Web Development, Dynamic Form Builder, Payment Integration, Call Recording in Android
+- 📱 **Expertise:** Mobile & Web Development
 - 🛠 **Currently Working On:**
   - Follow CLient CRM App
   - Doctor Appointment Booking System using Firebase
