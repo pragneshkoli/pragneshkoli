@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate **Flutter Developer** with a stro
 ## 📫 Connect With Me
 - 🌐 [Portfolio](#) *(Coming Soon)*
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pragnesh-kolipatel-385133213/)
-- 🐦 [X](https://x.com/PragneshKoli))
+- 🐦 [X](https://x.com/PragneshKoli)
 - 📧 Email: pragneshkoli84344@gmail.com
 
 Thanks for stopping by! Happy coding! 🚀
