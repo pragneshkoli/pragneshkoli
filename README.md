@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm a passionate **Flutter Developer** with a stro
 - 📖 **Learning:** Jaspr (Flutter for Web)
 
 ## 📈 GitHub Stats
-![Pragnesh's GitHub Most used language](https://github-readme-stats.vercel.app/api/top-langs?username=pragneshkoli&show_icons=true&theme=radical)
-![Pragnesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pragneshkoli&show_icons=true&theme=radical)
+- ![Pragnesh's GitHub Most used language](https://github-readme-stats.vercel.app/api/top-langs?username=pragneshkoli&show_icons=true&theme=radical)
+- ![Pragnesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pragneshkoli&show_icons=true&theme=radical)
 
 ## 📫 Connect With Me
 - 🌐 [Portfolio](#) *(Coming Soon)*
