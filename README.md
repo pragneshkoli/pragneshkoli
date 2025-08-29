@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate **Flutter Developer** with a stro
 - 💻 **Tech Stack:** Flutter, Dart, Provider, Firebase, Java, FastAPI, Express.js
 - 📱 **Expertise:** Mobile & Web Development
 - 🛠 **Currently Working On:**
-  - Follow CLient CRM App
+  - Follow Client CRM App
   - Doctor Appointment Booking System using Firebase
   - Google Calendar & Drive API Integration
   - MYMIRU(Smart Farm App)
