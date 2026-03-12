@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate **Flutter Developer** with a stro
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pragneshkoli&show_icons=true" alt="abuanwar072" /></p>
 
 ## 📫 Connect With Me
-- 🌐 [Portfolio](https://pragneshkoli.netlify.app/)
+- 🌐 [Portfolio](https://pragneshkoli.in/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pragnesh-kolipatel-385133213/)
 - 🐦 [X](https://x.com/PragneshKoli)
 - 📧 Email: pragneshkoli84344@gmail.com
